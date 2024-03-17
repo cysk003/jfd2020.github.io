@@ -29,3 +29,6 @@ TV9,http://198.16.100.90:8278/TV9/playlist.m3u8
 广视课堂 初一,http://www.ye28.eu.org:7777/udp/239.253.43.89:5146
 广视课堂 初二,http://www.ye28.eu.org:7777/udp/239.253.43.90:5146
 广视课堂 初三,http://www.ye28.eu.org:7777/udp/239.253.43.91:5146
+韩国娱乐台,http://8.210.88.135/1023/4g16.php?p=3
+韩国娱乐台,mitv://generationnexxxt.com:19806/61d204e7391b48b78c77df72c70335e9
+韓國娛樂台 KMTV,https://fake-stream.livednow.com/4gtv/76?token=663712ecdccfce985aa611a9a1cef5ef&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
